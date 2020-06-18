@@ -1,6 +1,6 @@
 # Movie Recommender Case Study
-### Below is the competition requirements.
-I am going to build a recommendation system based off data from the
+### Below is the competition requirements that I received.
+You are going to build a recommendation system based off data from the
 [MovieLens dataset](http://grouplens.org/datasets/movielens/). It includes movie
 information, user information, and the users' ratings. Your goal is to build a
 recommendation system and to suggest movies to users!
